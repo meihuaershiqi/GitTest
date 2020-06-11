@@ -1,1 +1,1 @@
-## CRF识别结果在out.tet
+## CRF识别结果在./NER/out.txt

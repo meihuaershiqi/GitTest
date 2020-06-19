@@ -1,1 +1,2 @@
-## 老师请看  ==>  CRF识别结果在 NER/out.txt
+## 老师请看  ==>  基于word2vec的中文词向量训练 
+###   word2veczh.ipynb

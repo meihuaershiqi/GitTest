@@ -1,2 +1,2 @@
-## 老师请看  ==>  基于word2vec的中文词向量训练 
-###   word2veczh.ipynb
+## 老师请看  ==>  基于TextCNN的文本分类任务
+###   TextCNN.ipynb
